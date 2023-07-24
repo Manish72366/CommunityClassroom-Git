@@ -1,0 +1,3 @@
+
+SO you can't do direct changes with anyone project you have to first fork it and then do changes in your computer and then do whatever you want to do
+
